@@ -264,4 +264,4 @@ This repository serves as the official landing page for Kodi. The software is di
 **Get the most recent version of Kodi today!**
 
 ---
-**Last updated:** 2026-09-22 18:41:09 UTC
+**Last updated:** 2026-09-22 21:55:23 UTC
